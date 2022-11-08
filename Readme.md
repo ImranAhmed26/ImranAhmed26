@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Ahmed</h1>
 <h3 align="center">A passionate JavaScript Developer based in Dhaka</h3>
-
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 - 🔭 I’m currently working on **RMG Stock**, a MERN Stack web application
 
 - 🌱 I’m currently learning **Python**
