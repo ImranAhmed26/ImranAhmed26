@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imran.ahk26@gmail.com**
 
-- 📄 Know about my experiences [Click here to view my Resume](https://drive.google.com/file/d/19ZNd1t-sOxyDupbMYETvDDER-PiGuz4a/view?usp=sharing)
+- 📄 Checkout my [ Resume](https://drive.google.com/file/d/19ZNd1t-sOxyDupbMYETvDDER-PiGuz4a/view?usp=sharing)
 
 - ⚡ Fun fact **Don't trust JavaScript programmers. All they do is promises but they never callback.**
 
