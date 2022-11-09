@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node JS, Next JS, JavaScript**
 
-- 📫 How to reach me **imran.ahk26@gmail.com**
+- 📫 Reach me @ **imran.ahk26@gmail.com**
 
 - 📄 Checkout my [ Resume](https://drive.google.com/file/d/19ZNd1t-sOxyDupbMYETvDDER-PiGuz4a/view?usp=sharing)
 
