@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **MERN Stack**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently getting around **TypeScript**
 
 - 👨‍💻 Visit my portfolio at [imranahmed.vercel.app](imranahmed.vercel.app)
 
