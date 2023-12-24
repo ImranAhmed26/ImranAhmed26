@@ -13,7 +13,7 @@
 
 - 📫 Reach me @ **imran.ahk26@gmail.com**
 
-- 📄 Checkout my [Resume][(https://drive.google.com/file/d/1XJFg_xEzGgynWni-kmGv1wdze57-Kumy/view?usp=sharing)](https://drive.google.com/file/d/1LHVvcKAx1kMkayQi0mheB-e3S06zdM19/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1LHVvcKAx1kMkayQi0mheB-e3S06zdM19/view?usp=sharing)
 
 - ⚡ Fun fact **Don't trust JavaScript programmers. All they do is promises but they never callback.**
 
